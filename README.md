@@ -29,10 +29,6 @@
 
 ## 🛠️ What we build
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### ⛓️ Blockchain & Web3
 - Multi-chain crypto wallets (Trust Wallet / MetaMask style)
 - Centralized exchanges (CEX) with mobile apps
@@ -41,19 +37,11 @@
 - Token creation tools & smart contracts
 - Staking / DeFi dApps & trading bots
 
-</td>
-<td width="50%" valign="top">
-
 ### 💳 Payments & Fintech
 - **RazCrypto** — No-KYC USDT (BEP-20) payment gateway
 - Official SDKs for PHP, Node.js, Python, Flutter, React Native & JS
 - Transaction tracking dashboards
 - Trading journals & forex diaries
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### 🏢 Business Software & SaaS
 - MLM software (binary, matrix, product-based plans)
@@ -61,18 +49,11 @@
 - Online course selling platforms
 - Admin panels, CRMs & client portals
 
-</td>
-<td width="50%" valign="top">
-
 ### 📱 Apps, Web & AI
 - Flutter & React Native mobile apps
 - Laravel, React & Next.js websites and web apps
 - Recharge / utility apps & astrology platforms
 - AI voice calling and automation tools
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -81,14 +62,14 @@
 > Accept **USDT (BEP-20)** payments on your website or app in minutes — no KYC hassle, QR checkout, wallet links and live payment status.
 > 🌐 **[razcryptogateway.com](https://razcryptogateway.com)**
 
-| SDK | Platform | Repository |
-|---|---|---|
-| 🐘 PHP SDK | Laravel & Core PHP | [razcrypto-php-sdk](https://github.com/WorldxGrowth/razcrypto-php-sdk) |
-| 🟢 Node.js SDK | Node / Express / Next.js | [razcrypto-node-sdk](https://github.com/WorldxGrowth/razcrypto-node-sdk) |
-| 🐍 Python SDK | Django / Flask / FastAPI | [razcrypto-python-sdk](https://github.com/WorldxGrowth/razcrypto-python-sdk) |
-| 💙 Flutter SDK | Android & iOS | [razcrypto-flutter-sdk](https://github.com/WorldxGrowth/razcrypto-flutter-sdk) |
-| ⚛️ React Native SDK | Android & iOS | [razcrypto-react-native-sdk](https://github.com/WorldxGrowth/razcrypto-react-native-sdk) |
-| 🌐 Checkout JS | Any website | [razcrypto-checkout-js](https://github.com/WorldxGrowth/razcrypto-checkout-js) |
+| SDK | Use it for |
+|---|---|
+| [🐘 PHP SDK](https://github.com/WorldxGrowth/razcrypto-php-sdk) | Laravel & Core PHP |
+| [🟢 Node.js SDK](https://github.com/WorldxGrowth/razcrypto-node-sdk) | Node / Express / Next.js |
+| [🐍 Python SDK](https://github.com/WorldxGrowth/razcrypto-python-sdk) | Django / Flask / FastAPI |
+| [💙 Flutter SDK](https://github.com/WorldxGrowth/razcrypto-flutter-sdk) | Android & iOS |
+| [⚛️ React Native SDK](https://github.com/WorldxGrowth/razcrypto-react-native-sdk) | Android & iOS |
+| [🌐 Checkout JS](https://github.com/WorldxGrowth/razcrypto-checkout-js) | Any website |
 
 ---
 
